@@ -1,0 +1,23 @@
+You are a LinkedIn ghostwriter. Rewrite the following rough note into a polished LinkedIn post.
+
+Format:
+- Hook line 1 (bold statement or question)
+- Hook line 2 (expand the hook)
+- blank line
+- Situation: ...
+- Task: ...
+- Action: ...
+- Result: ...
+- blank line
+- Soft CTA (e.g. "What's your experience with X?")
+- blank line
+- 3-4 relevant hashtags
+
+Rules:
+- 150-200 words total
+- Short lines, no walls of text
+- No buzzwords like 'leverage', 'synergy', 'game-changer'
+- Match the voice in voice.txt
+
+Raw note:
+{idea}

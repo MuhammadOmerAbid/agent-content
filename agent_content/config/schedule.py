@@ -1,0 +1,3 @@
+SCHEDULE_DAYS = ["mon", "wed", "fri"]
+SCHEDULE_HOUR = 9
+SCHEDULE_MINUTE = 0
